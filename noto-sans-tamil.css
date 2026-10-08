@@ -1,0 +1,10 @@
+/* Noto Sans Tamil - bundled locally */
+/* To install: download from https://fonts.google.com/noto/specimen/Noto+Sans+Tamil */
+/* and place the .woff2 files in public/fonts/ */
+@font-face {
+  font-family: 'Noto Sans Tamil';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Tamil'), local('NotoSansTamil');
+  unicode-range: U+0B80-0BFF, U+200C-200D, U+20B9, U+25CC;
+}
